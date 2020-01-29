@@ -1,5 +1,5 @@
 {
-  "name": "@bbc/subtitles-generator",
+  "name": "@pietrop/subtitles-generator",
   "version": "1.0.0",
   "description": "A node module to generate subtitles by segmenting a list of time-coded text.",
   "main": "index.js",
@@ -31,11 +31,11 @@
     "rimraf": "^2.6.3"
   },
   "bugs": {
-    "url": "https://github.com/bbc/subtitles-generator/issues"
+    "url": "https://github.com/pietrop/subtitles-generator/issues"
   },
-  "homepage": "https://github.com/bbc/subtitles-generator",
+  "homepage": "https://github.com/pietrop/subtitles-generator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbc/subtitles-generator.git"
+    "url": "git+https://github.com/pietrop/subtitles-generator.git"
   }
 }
