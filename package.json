@@ -1,6 +1,6 @@
 {
   "name": "@pietrop/subtitles-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node module to generate subtitles by segmenting a list of time-coded text.",
   "main": "index.js",
   "scripts": {
